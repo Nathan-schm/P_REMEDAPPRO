@@ -17,3 +17,6 @@ Ensuite on s'est renseigner sur quel site propose des asset préfait pour notre 
     - Votre journal de travail doit être plus précis. Les tâches qui y figurent doivent être plus petites. Plus elles sont grosses, plus il faudra rajouter de commentaires. 
     - Il manque des commentaires comme par exemple les sites d'assets que vous avez envisagé, version Godot à installer.
     - Apprenez à faire usage des liens en markdown. Par exemple : "Nous avons choisi de prendre nos assets sur [Kenney](https://www.kenney.nl/assets/tag:godot)
+
+- Travail Nathan
+    - ...
