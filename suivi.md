@@ -22,3 +22,11 @@ Ensuite on s'est renseigner sur quel site propose des asset préfait pour notre 
     - 1ère période, J'ai regarder le travail qu'on avais fais la semaine passée sur godot, ont avais créer une scène avec des balles depuis un tuto d'un site.
     - 2ème période, J'ai commencer un créer une map avec des hitbox pour le sol et les arbres, pour tester comment fonctionne godot
     - 3ème période, J'ai terminer la premièe partie de ma map test, j'ai ajouter 2 îles avec un arbres, des platformes pour pouvoir se déplacer entre les 2 îles facilement.
+ 
+## 14.2
+- Feedback XCL
+    - Ne découpez pas votre journal par période, mais par tâche. Vous avez bien capturé les diverses tâches, il faut juste les présenter un peu différemment
+    - Mettez à jour le readme du repo: il doit me permettre d'accéder au code que vous avez produit
+ 
+- Travail Nathan
+    - ...
