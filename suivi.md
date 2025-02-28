@@ -30,3 +30,12 @@ Ensuite on s'est renseigner sur quel site propose des asset préfait pour notre 
  
 - Travail Nathan
     - ...
+
+## 28.2
+
+- Feedback XCL
+    - Votre journal de travail de la semaine passée est vide
+    - Le readme du repo dit toujours "salut", malgré ma demande de la semaine passée
+    - Je n'arrive pas à ouvrir le projet dans votre dossier godot, il dit "pas de scène principale"
+    - Attention: votre projet peut se solder par un échec, même si vous faites un super programme. Vous devez également mettre votre travail en valeur en me permettant de le tester et en m'informant de votre démarche.
+
