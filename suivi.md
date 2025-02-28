@@ -39,3 +39,8 @@ Ensuite on s'est renseigner sur quel site propose des asset préfait pour notre 
     - Je n'arrive pas à ouvrir le projet dans votre dossier godot, il dit "pas de scène principale"
     - Attention: votre projet peut se solder par un échec, même si vous faites un super programme. Vous devez également mettre votre travail en valeur en me permettant de le tester et en m'informant de votre démarche.
 
+- Travail Nathan
+    - pendant 30 min jai ecrit dans le readme pour bien expliquer comment accéder à mon jeux de test
+    - ensuite durant 1h jai créer un page d'accueil avec des bouttons fonctionnel, un boutton commencer qui nous lance dans le jeu et un boutton quitter qui nous fait quitter la fenêtre
+    - Le problème c'est que j'ai fait un commit dans le projet que on a en commun avec mes collège sauf que on s'est dit que il ne fallais pas push pour embrouiller tout notre travail, et donc quand j'ai changer de projet pour poiuvoir écrire le journal de travail j'ai perdu la page d'accueil que j'avais créer, donc la semiane prochaine je vais devoir refaire cette page d'accueil.
+    - Et je readme aussi donc je vais tout refaire la semaine pro.
