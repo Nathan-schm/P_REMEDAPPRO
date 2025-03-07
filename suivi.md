@@ -55,3 +55,8 @@ Ensuite on s'est renseigner sur quel site propose des asset préfait pour notre 
     - Nommage de commits: il est nécessaire maintenant d'améliorer ce point car il est insuffisant à ce stade
 
 - Journal de travail
+
+- Travail Nathan
+    - Alors Pendant 30 min j'ai recréer le menu principal avec comme image de fond une photo de notre jeu et avec des bouton fonctionnel pour jouer ou quitter le jeu.
+    - Durant 10 min j'ai enfin écrit dans le readme pour que vous puissiez accéder facilement a mon travail.
+    - Ensuite j'ai aide pendant 50min mon camarade pour lui montrer comment créer une map pour notre jeu, avec des tilemap etc...
