@@ -44,3 +44,14 @@ Ensuite on s'est renseigner sur quel site propose des asset préfait pour notre 
     - ensuite durant 1h jai créer un page d'accueil avec des bouttons fonctionnel, un boutton commencer qui nous lance dans le jeu et un boutton quitter qui nous fait quitter la fenêtre
     - Le problème c'est que j'ai fait un commit dans le projet que on a en commun avec mes collège sauf que on s'est dit que il ne fallais pas push pour embrouiller tout notre travail, et donc quand j'ai changer de projet pour poiuvoir écrire le journal de travail j'ai perdu la page d'accueil que j'avais créer, donc la semiane prochaine je vais devoir refaire cette page d'accueil.
     - Et je readme aussi donc je vais tout refaire la semaine pro.
+
+
+## 7.3
+
+- Feedback XCL
+    - J'avais demandé de faire un bilan des objectifs, il n'a pas été fait
+    - Je ne comprends pas. Votre repo dit toujours "salut". Où est le résultat des 30 minutes de rédaction d'explication que mentionne votre journal ? Je ne le trouve pas non plus dans le repo de Ryan
+    - Je ne trouve nulle part des indications claires qui me permettent de voir le résultat de votre travail
+    - Nommage de commits: il est nécessaire maintenant d'améliorer ce point car il est insuffisant à ce stade
+
+- Journal de travail
