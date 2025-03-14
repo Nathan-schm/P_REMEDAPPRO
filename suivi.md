@@ -69,5 +69,6 @@ Ensuite on s'est renseigner sur quel site propose des asset préfait pour notre 
     - Gardez l'easter egg pour quand le jeu sera fini
     - Journal OK
 
-- Journal de travail
-    -
+- Journal de travail Nathan
+    -Pendant 1h j'ai ajouter la possibilité de monter et descendre sur des échelles.
+    -Et pendant 5 min j'ai changer le fait que maintenant quand on lance le jeu c'est le menu principal qui s'affiche et pas le jeu directement.
