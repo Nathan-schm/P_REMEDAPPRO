@@ -60,3 +60,14 @@ Ensuite on s'est renseigner sur quel site propose des asset préfait pour notre 
     - Alors Pendant 30 min j'ai recréer le menu principal avec comme image de fond une photo de notre jeu et avec des bouton fonctionnel pour jouer ou quitter le jeu.
     - Durant 10 min j'ai enfin écrit dans le readme pour que vous puissiez accéder facilement a mon travail.
     - Ensuite j'ai aide pendant 50min mon camarade pour lui montrer comment créer une map pour notre jeu, avec des tilemap etc...
+
+## 14.3
+
+- Feedback XCL
+    - Tous les commits sont faits par Daniel. Comment est-ce que je peux savoir qui a fait quoi ?
+    - Le jeu avance bien
+    - Gardez l'easter egg pour quand le jeu sera fini
+    - Journal OK
+
+- Journal de travail
+    -
