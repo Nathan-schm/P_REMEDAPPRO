@@ -70,5 +70,17 @@ Ensuite on s'est renseigner sur quel site propose des asset préfait pour notre 
     - Journal OK
 
 - Journal de travail Nathan
-    -Pendant 1h j'ai ajouter la possibilité de monter et descendre sur des échelles.
+    -Pendant 1h j'ai ajouter la possibilité de monter et descendre sur des échelles.  
     -Et pendant 5 min j'ai changer le fait que maintenant quand on lance le jeu c'est le menu principal qui s'affiche et pas le jeu directement.
+
+# Conclusion
+
+Selon votre journal de travail, vous avez travaillé pendant une heure et cinq minutes. Nous avions trois périodes donc 2h15. Qu'avez-vous fait pendant 1h10 restante ? D'une bonne roue d'une autre, ceci est un problème. Soit vous avez fait quelque chose d'utile et vous ne l'avez pas valorisé, soit vous n'avez rien fait et ça ne va pas.
+
+Vous annoncez l'objectif des échelles comme étant atteint, mais lorsque je joue à votre jeu (dans la version remise avec la release) je ne vois aucune échelle et je ne peux donc pas voir si ça marche ou non. Je valide quand même l'objectif parce que vous me l'avez montré, mais pensez à l'avenir à vérifier l'exactitude de votre rendu par rapport à vos objectifs avant de livrer. S'il ne s'agissait pas d'un projet d'approfondissement, je ne le validerais pas.
+
+Vos objectifs spécifiques énoncés au début du projet ne sont que partiellement remplis. Cependant, l'objectif d'approfondissement a bien été rempli. Vous avez acquis des connaissances dans la technologie que vous avez choisie et vous avez réussi à mettre en place un jeu qui ressemble à quelque chose (même s'il reste encore du travail pour qu'il soit vraiment jouable).
+
+L'expérience dont j'espère que vous tirerez le plus de bénéfices c'est celle qui concerne le travail à plusieurs sur un même programme. Bien que cela n'ai pas été chiffré, il me semble que vous avez passé pas mal de temps à tout mettre ensemble dans un seul projet. J'espère que cela vous donnera des idées pour que cela se passe plus facilement une prochaine fois.
+
+Votre projet est donc validé
